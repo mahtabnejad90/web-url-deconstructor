@@ -32,7 +32,7 @@ Visually show the loading progress and errors (if any)
 - Node.js installed
 - IDE (VSCode Recommended)
 
-1. Clone the repo via `git clone tbc`
+1. Clone the repo via `git clone git@github.com:mahtabnejad90/web-url-deconstructor.git`
 
 2. Redirect your terminal path into the clone repo from step 1 `cd url-deconstructor` for the rest of the steps
 
